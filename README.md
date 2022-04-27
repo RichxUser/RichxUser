@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Rich
+- 👀 I’m interested in ReactJs and React Native
